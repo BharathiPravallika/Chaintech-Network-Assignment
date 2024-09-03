@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.filter-field {
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+/* Style the sort button */
+
+.container {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 16px;
+}
+
+button {
+    margin: 8px 0;
+}
+
+/* Style the mat-list and mat-list-item */
+mat-list {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+mat-list-item {
+    padding: 16px;
+    border-bottom: 1px solid #ddd;
+}
+
+mat-list-item:last-child {
+    border-bottom: none;
+}
