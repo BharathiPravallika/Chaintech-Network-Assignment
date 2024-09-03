@@ -1,6 +1,30 @@
 # ItemListApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
+Welcome to the Item List App! This Angular application displays a list of dog breeds fetched from the Dog CEO API. 
+It includes functionalities for filtering and sorting the list of items.
+
+## Features
+
+- **Filter**: Allows users to search for specific items in the list.
+- **Sort**: Toggle between ascending and descending order for the list items.
+
+## Technologies Used
+
+- **Angular**: A platform for building mobile and desktop web applications.
+- **Angular Material**: A UI component library for Angular.
+- **RxJS**: A library for reactive programming using Observables.
+- **HTTP Client**: For making HTTP requests to fetch data from the Dog CEO API.
+
+**Clone the Repository**
+
+   
+   git clone [https://github.com/BharathiPravallika/Chaintech-Network-Assignment.git](https://github.com/BharathiPravallika/Chaintech-Network-Assignment/tree/master)
+   
+   
+## Usage
+Filter Items: Type in the filter input field to search for items. The list will update to show only those items that match the query.
+Sort Items: Click the sort button to toggle between ascending and descending order for the items in the list.
 
 ## Development server
 
